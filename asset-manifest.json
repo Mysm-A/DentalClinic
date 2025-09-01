@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DentalClinic/static/css/main.cf6ab861.css",
+    "main.js": "/DentalClinic/static/js/main.1a478b95.js",
+    "static/media/3.jpeg": "/DentalClinic/static/media/3.d121e906ccbae9decebe.jpeg",
+    "static/media/DENTAL.jpeg": "/DentalClinic/static/media/DENTAL.af4d17c62fbc5b795dff.jpeg",
+    "static/media/2.jpeg": "/DentalClinic/static/media/2.ae54214f4f6a209da88f.jpeg",
+    "index.html": "/DentalClinic/index.html",
+    "main.cf6ab861.css.map": "/DentalClinic/static/css/main.cf6ab861.css.map",
+    "main.1a478b95.js.map": "/DentalClinic/static/js/main.1a478b95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf6ab861.css",
+    "static/js/main.1a478b95.js"
+  ]
+}
