@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Dental.css';
+import './DentalClinic.css';
 import heroImage from './3.jpeg';
 import herImage from './DENTAL.jpeg';
 import heImage from './2.jpeg';
